@@ -3,6 +3,8 @@
 [![Built With - MJML](https://img.shields.io/badge/Built%20With-MJML-22b573?style=flat-square)](https://mjml.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
+LİVE PREVİEW: https://edayavuz6.github.io/Serenity-Saas-Email-Template/
+
 A production-ready, bulletproof welcome and feature onboarding email template designed for **Serenity**, a fictional SaaS meditation platform. 
 
 This project demonstrates professional email engineering workflows, showcasing semantic component structure, responsive visual hierarchy, and absolute cross-client email compatibility (including legacy Outlook clients).
